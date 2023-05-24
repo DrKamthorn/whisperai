@@ -1,13 +1,13 @@
 h1 {
   font-size: 32px;
-  color: pink;
+  color: orange;
 }
 
 .highlight {
   font-size: 18px;
   color: white;
   border-radius: 0.4rem;
-  background-color: pink;
+  background-color: orange;
   padding: 0.5rem;
   margin-bottom: 10px;
 }

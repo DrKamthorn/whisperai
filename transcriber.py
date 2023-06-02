@@ -19,7 +19,7 @@ class Transcription:
     ):
 
         # get whisper model
-        transcriber = whisper.load_model(whisper_model)
+        transcriber = whisper.load_model("base")
 
         self.output = []
 

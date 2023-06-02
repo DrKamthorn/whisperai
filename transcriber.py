@@ -1,6 +1,6 @@
 import whisper
 from tempfile import NamedTemporaryFile
-from whisper import load_model
+
 
 
 class Transcription:

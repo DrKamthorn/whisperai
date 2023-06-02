@@ -1,6 +1,6 @@
 python-docx==0.8.11
 streamlit
-whisper==1.0
+whisper>=1.0
 ffmpeg-python==0.2.0
 pip==23.1.2
 matplotlib==3.7.1
